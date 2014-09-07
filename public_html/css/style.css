@@ -1,0 +1,30 @@
+body{
+    background-color: orangered;
+}
+
+nav a {
+    color: skyblue;
+}
+#current-link {
+    text-decoration: none;   
+}
+
+
+.uppercase{
+    texttransform: uppercase;
+    font-size: 40px;
+}
+
+img{
+    width: 250xp;
+    hight: auto;
+}
+
+h1{
+    border:5px inset yellow;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 550px;
+   
+}
+
