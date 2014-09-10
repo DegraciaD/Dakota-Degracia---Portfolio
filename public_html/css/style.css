@@ -1,6 +1,10 @@
 body{
-    background-color: orangered;
+    background-color:orangered;
+    background-image: batman;
+       
+
 }
+
 
 nav a {
     color: skyblue;
@@ -16,15 +20,14 @@ nav a {
 }
 
 img{
-    width: 250xp;
+    width: 600px;
     hight: auto;
 }
 
 h1{
-    border:5px inset yellow;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 550px;
-   
+    border:15px inset yellow;
+    margin-top: 40px;
+    margin-left: 450px;
+    margin-right: 450px;
 }
 
